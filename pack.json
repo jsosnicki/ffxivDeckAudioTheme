@@ -1,0 +1,10 @@
+{
+  "name": "FFXIV System Sounds",
+  "description": "FFXIV system sounds, now on Deck",
+  "author": "foxcar",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
