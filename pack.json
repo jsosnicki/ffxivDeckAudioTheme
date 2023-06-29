@@ -1,8 +1,8 @@
 {
-  "name": "FFXIV System Sounds",
-  "description": "FFXIV system sounds, now on Steam Deck",
+  "name": "FFXIV UX Sounds",
+  "description": "UX sounds from the critically acclaimed MMORPG Final Fantasy XIV.",
   "author": "jsosnicki",
-  "version": "v1.1",
+  "version": "v1.2",
   "manifest_version": 2,
   "music": false,
   "ignore": [
@@ -17,6 +17,6 @@
   "pop_sound.wav",
   "ui_steam_smoother_friend_join.m4a",
   "ui_steam_smoother_friend_online.m4a"
-]
+  ],
   "mappings": {}
 }
